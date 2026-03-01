@@ -6,8 +6,8 @@ Jednorázový příkaz — spusť v terminálu:
 
 ```bash
 claude mcp add recall -- \
-  /Users/miroslavkolarik/Documents/projects/claude_repo/muj_testovaci_denicek/recall_python/.venv/bin/python \
-  /Users/miroslavkolarik/Documents/projects/claude_repo/muj_testovaci_denicek/recall_python/server.py
+  /path/to/recall_python/.venv/bin/python \
+  /path/to/recall_python/server.py
 ```
 
 ### Ověření registrace
