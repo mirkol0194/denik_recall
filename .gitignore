@@ -13,6 +13,7 @@ obj/
 # Python
 __pycache__/
 tools/venv/
+recall_python/.venv/
 
 # Never commit secrets or personal data
 *.pem
